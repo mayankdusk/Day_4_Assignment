@@ -1,0 +1,31 @@
+.hero {
+    position: relative;
+    
+    width: 100vw;
+    height: 40vh;
+    background-color: #4200b4;
+}
+
+#heading{
+    padding-top: 20px;
+    text-align: center;
+    font-size:xx-large;
+    color: white;
+    word-spacing: 10px;
+}
+
+.hero p{
+    color: #fff;
+    text-align: center;
+    word-spacing: 6px;
+}
+
+#btn{
+    color: #fff;
+    background-color: #45a049;
+    position: absolute;
+    margin-top: 40px;  
+    left: 45%;
+    
+}
+
